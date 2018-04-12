@@ -1,4 +1,7 @@
 db=test host=localhost
 
 
-æµ‹è¯•
+æµ‹è
+
+alikey='yyy'
+¯•
